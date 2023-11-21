@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\kitap-sınıfı\kitap-sınıfı\bin\Debug\kitap-sınıfı.exe.config
+C:\Users\User\source\repos\kitap-sınıfı\kitap-sınıfı\bin\Debug\kitap-sınıfı.exe
+C:\Users\User\source\repos\kitap-sınıfı\kitap-sınıfı\bin\Debug\kitap-sınıfı.pdb
+C:\Users\User\source\repos\kitap-sınıfı\kitap-sınıfı\obj\Debug\kitap-sınıfı.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\kitap-sınıfı\kitap-sınıfı\obj\Debug\kitap-sınıfı.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\kitap-sınıfı\kitap-sınıfı\obj\Debug\kitap_sınıfı.Form1.resources
+C:\Users\User\source\repos\kitap-sınıfı\kitap-sınıfı\obj\Debug\kitap_sınıfı.Properties.Resources.resources
+C:\Users\User\source\repos\kitap-sınıfı\kitap-sınıfı\obj\Debug\kitap-sınıfı.csproj.GenerateResource.cache
+C:\Users\User\source\repos\kitap-sınıfı\kitap-sınıfı\obj\Debug\kitap-sınıfı.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\kitap-sınıfı\kitap-sınıfı\obj\Debug\kitap-sınıfı.exe
+C:\Users\User\source\repos\kitap-sınıfı\kitap-sınıfı\obj\Debug\kitap-sınıfı.pdb
